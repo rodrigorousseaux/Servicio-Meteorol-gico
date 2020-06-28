@@ -23,5 +23,4 @@ La tendencia "otra" deberá ser utilizada si no es creciente o decreciente.
 3. Mostar por pantalla cuál es la temperatura máxima del mes y en qué semana se encuentra.
 
 4. Para un día ingresado por el usuario, mostrar las temperaturas de dicho día en cada semana. Tener en
-cuenta que el usuario ingresará "Lunes", "Martes", ..., "Domingo". Se asume que la primer
-temperatura cargada corresponde al día Lunes y la sexta al Domingo
+cuenta que el usuario ingresará "Lunes", "Martes", ..., "Domingo".
